@@ -1,13 +1,15 @@
 import java.lang.Math;
 
 /**
+ * Gravity Train
+ *
  * This class calculates the one-way travel time for a hypothetical 
  * frictionless train moving through a straight tunnel inside a uniform 
  * spherical Earth, powered only by gravity. The calculation assumes 
  * Simple Harmonic Motion based on Earth's radius and surface gravity.
  */
 
-public class GravityTrain {
+public class Chapter01 {
 
     public static void main(String[] args) {
 
