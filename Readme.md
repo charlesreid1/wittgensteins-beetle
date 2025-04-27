@@ -66,9 +66,7 @@ No program
 
 ## I: The Identity of Indiscernibles
 
-[Evil Morty's Backstory](https://www.youtube.com/watch?v=7JXomLN8YUU)
-* Ricks = identical characteristics, but different physical appearances = Leibniz Principle of Indiscernability
-* Mortys = idential physical appearance, characteristics and experiences are only way to distinguish them = Wittgenstein's Scenario
+[Evil Morty's Backstory](https://www.youtube.com/watch?v=7JXomLN8YUU) (Ricks = identical characteristics, but different physical appearances = Leibniz Principle of Indiscernability; Mortys = idential physical appearance, characteristics and experiences are only way to distinguish them = Wittgenstein's Scenario)
 
 * **Concept:** Leibniz's principle regarding identity and distinguishability.
 * **Scenario:** Leibniz argues it's impossible to find two truly identical, indiscernible things (like two leaves in a garden that are perfectly alike in every single property).
